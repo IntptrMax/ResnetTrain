@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResnetTrain", "ResnetTrain.csproj", "{94CAF0FB-5FC3-46A1-A0C4-DEFB4E1C8694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CAF0FB-5FC3-46A1-A0C4-DEFB4E1C8694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CAF0FB-5FC3-46A1-A0C4-DEFB4E1C8694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CAF0FB-5FC3-46A1-A0C4-DEFB4E1C8694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CAF0FB-5FC3-46A1-A0C4-DEFB4E1C8694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DA8088-0F93-40AB-A672-1D5C986E3C04}
+	EndGlobalSection
+EndGlobal
