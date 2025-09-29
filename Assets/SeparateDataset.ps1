@@ -1,7 +1,7 @@
 ﻿
 # Params
-$datasetPath = ".\flower_photos\"  
-$outputDir = ".\labels\"                
+$datasetPath = ".\flower_photos"  
+$outputDir = ".\labels"                
 $trainRatio = 0.7                      
 $valRatio = 0.2                       
 # testRatio = 1 - trainRatio - valRatio
